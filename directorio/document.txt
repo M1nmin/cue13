@@ -18,3 +18,14 @@ Reinitialized existing Git repository in C:/Users/asefq/OneDrive/Escritorio/Modu
 asefq@LAPTOP-NABHJMBP MINGW64 ~/OneDrive/Escritorio/Modulo 2/12/git cue13 (master)
 $
 
+asefq@LAPTOP-NABHJMBP MINGW64 ~/OneDrive/Escritorio/Modulo 2/12/git cue13 (master)
+$ git commit -a
+[master 8980c24] mi segundo commit
+ 1 file changed, 20 insertions(+)
+
+asefq@LAPTOP-NABHJMBP MINGW64 ~/OneDrive/Escritorio/Modulo 2/12/git cue13 (master)
+$
+
+
+
+
